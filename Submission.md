@@ -43,7 +43,7 @@ Ensures users can enter coupons in any case (SAVE10, save10, Save10) without fai
 
 ## CI Pipeline (if implemented)
 - Did CI pass successfully? Yes
-- GitHub Actions Run URL: (Will be available after pushing to GitHub)
+- GitHub Actions Run URL: https://github.com/ish1416/jest-workshop/actions/runs/21825126498
 
 ---
 
